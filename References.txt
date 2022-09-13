@@ -1,0 +1,12 @@
+Per Oscarson
+INFORMATION SECURITY FUNDAMENTALS 
+Graphical Conceptualisations for Understanding
+C. Irvine et al. (eds.), Security Education and Critical Infrastructures
+© Springer Science+Business Media New York 2003
+Disponível em http://www.vits.org/publikationer/dokument/416.pdf ou https://link.springer.com/content/pdf/10.1007/978-0-387-35694-5_9.pdf
+
+
+Mouna Jouinia,*, Latifa Ben Arfa Rabaia, Anis Ben Aissab
+Classification of security threats in information systems
+5th International Conference on Ambient Systems, Networks and Technologies (ANT-2014) 
+Disponível em https://www.sciencedirect.com/science/article/pii/S1877050914006528
